@@ -11,7 +11,7 @@
 git clone git@github.com:daniel-enqz/CollatzConjecture.git
 cd CollatzConjecture
 ```
-_**If you want to try the interactive terminal project, run: **_
+**_If you want to try the interactive terminal project, run:_**
 `ruby lib/interface `
 
-_**Type `rake` the to run tests: **_
+**_Type `rake` the to run tests:_**
