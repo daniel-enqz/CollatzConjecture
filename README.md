@@ -52,4 +52,9 @@ Perhaps, we can suppose that all comments will belonh to a specific post.🤔
 😀 _**Conclusion: At the end we will not be deleting any comments, they will still be there for other users to continue replying, and we will not affect other persisted users in our database**_
 
 # THANK YOU SO MUCH FOR READING UNTIL HERE, HOPE WE CAN BUILD GREAT THINGS TOGETHER!!!!🤩🤩
-daniel.enm17@gmail.com
+<h3 align="center">Where to reach me....</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-enr%C3%ADquez-monjar%C3%A1s-10043721b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:dan17.em@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://daniel-enqz.github.io/website/"><img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+</p>
