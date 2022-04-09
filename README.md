@@ -33,7 +33,7 @@ class User < ApplicationReord
   has_many :comments, dependent: :nullify
 end
 ``` 
-The comment model is important, here, we are defining how the reply system will be
+The comment model is important, here, we are defining how the reply system will be.
 We are creating a self-joining association with the comment model, allowing us to store replies in the comments table, and using parent_id column to store the comment ID of the reply.😉
 ```ruby
 # app/models/comment.rb
