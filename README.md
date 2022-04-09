@@ -49,4 +49,7 @@ Perhaps, we can suppose that all comments will belonh to a specific post.🤔
   has_many :comments
 ``` 
 
-😀 Conclusion: At the end we will not be deleting any comments, they will still be there for other users to continue replying, and we will not affect other persisted users in our database
+😀 _**Conclusion: At the end we will not be deleting any comments, they will still be there for other users to continue replying, and we will not affect other persisted users in our database**_
+
+# THANK YOU SO MUCH FOR READING UNTIL HERE, HOPE WE CAN BUILD GREAT THINGS TOGETHER!!!!🤩🤩
+daniel.enm17@gmail.com
