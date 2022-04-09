@@ -11,17 +11,17 @@
 git clone git@github.com:daniel-enqz/CollatzConjecture.git
 cd CollatzConjecture
 ```
-**_If you want to try the interactive terminal project, run:_** 👽
+👽 **_If you want to try the interactive terminal project, run:_**
 `ruby lib/interface `
 
-**_Type `rake` the to run tests:_** 👻
+👻 **_Type `rake` the to run tests:_**
 
-# Question:🤔
+# 🤔Question:
 Imagine a social media platform where users can reply to other user’s comments
 creating a thread. What should happen to a user’s comments if such a user wants to
 be deleted from the database?
 
-## Answer:🤐
+## 🤐Answer:
 As we want to mantain those comments (from the user we are deleting) active in the database, because other Users may have responded to that comment before. We can follow the next apporach:
 
 This is how active record models will look like🤓
@@ -49,4 +49,4 @@ Perhaps, we can suppose that all comments will belonh to a specific post.🤔
   has_many :comments
 ``` 
 
-Conclusion: At the end we will not be deleting any comments, they will still be there for other users to continue replying, and we will not affect other persisted users in our database😀
+😀 Conclusion: At the end we will not be deleting any comments, they will still be there for other users to continue replying, and we will not affect other persisted users in our database
