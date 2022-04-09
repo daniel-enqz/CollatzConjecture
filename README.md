@@ -16,7 +16,7 @@ cd CollatzConjecture
 
 👻 **_Type `rake` the to run tests:_**
 
-## I tried to do my best commenting each part of code, I hope it helps👌
+## I tried my best commenting each part of code, I hope it helps👌
 
 # 🤔Question:
 Imagine a social media platform where users can reply to other user’s comments
